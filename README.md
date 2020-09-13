@@ -11,7 +11,7 @@
 
 · 《深入理解Windows操作系统》【美】Russinovich,M.E.；Solomon,D.A.
 
-· 《Linux内核设计与实现》【美】Robert Love  202009：近期打算阅读
+· 《Linux内核设计与实现》【美】Robert Love  【202009：近期打算阅读】
 
 · 《深入理解Android内核设计思想》林学森
 
@@ -46,6 +46,7 @@
 · 《鸟哥的Linux私房菜》鸟哥
 
 · 《Linux设备驱动程序》【美】Jonathan Corbet；Alessandro Rubini；Gerg Kroah-Hartman
+· 《Linux Basics For Hacker》 OccupyTheWeb 【阅读中】
 
 ### macOS/iOS
 · 《iOS编程》【美】Christian Keur；Aaron Hillegass
@@ -189,9 +190,9 @@
 
 · 《Android安全攻防实战》【美】Keith Makan；Scott Alexander-Bow
 
-· 《模糊测试-强制性安全漏洞挖掘》【美】Michael Mutton
+· 《模糊测试-强制性安全漏洞挖掘》【美】Michael Mutton 【202009：近期打算阅读】
 
-· 《Exploit编写系列教程》【美】Corelan Team  202009：近期打算阅读
+· 《Exploit编写系列教程》【美】Corelan Team  【202009：近期打算阅读】
 
 · 《MacOS and iOS Internals,Volume Ⅲ: Security & Insecurity》【美】Jonathan Levin，博文视点翻译中，预计今年上市
 
@@ -238,7 +239,7 @@
 
 · 《高效演讲：斯坦福最受欢迎的沟通课》【美】Peter Meyers；Shann Nix
 
-· 《程序员的英语》【韩】朴栽浒；李海永    202009：近期打算阅读
+· 《程序员的英语》【韩】朴栽浒；李海永    【202009：近期打算阅读】
 
 · 《思考，快与慢》【美】丹尼尔·卡尼曼
 
